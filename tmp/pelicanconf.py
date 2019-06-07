@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+# import pelican_ga_pageview, pelican_cite_nice
+# import hrk_theme
 
 AUTHOR = 'Harper Kennington'
 SITENAME = 'Harper Kennington'
@@ -34,7 +36,7 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 
 # Social widget
 FA_SOCIAL = (
-    # ('beaker', 'https://www.researchgate.net/profile/James_Kennington'),
+    ('beaker', 'https://www.researchgate.net/profile/Harper_Kennington'),
 )
 
 SOCIAL = (
@@ -101,4 +103,3 @@ DISQUS_SITEURL = 'hrkennington.com'
 
 # CITATIONS
 PUBLICATIONS_SRC = 'content/references.bib'
-
