@@ -1,0 +1,16 @@
+feedparser
+ghp-import
+googleapis-common-protos>=1.5.9
+google-api-python-client
+hrk_theme>=0.1.3
+markdown
+oauth2client
+parsedatetime
+pelican
+pelican_cite_nice
+pelican_render_math
+pelican_ga_pageview
+pelican_github_activity
+pybtex
+pyopenssl
+
